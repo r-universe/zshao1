@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ERSSA"]
-	path = ERSSA
-	url = https://github.com/zshao1/erssa
-	shallow = true
-	registered = true
